@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Cristhian Chiang
 
-<!--
-**G0lden00/G0lden00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería Civil en Computación e Informática  
+🚀 Desarrollador enfocado en Python y desarrollo de software  
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+- Experiencia desarrollando software para empresa  
+- Creación de aplicaciones propias  
+- Interés en backend, automatización y SaaS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tecnologías
+- Python  
+- HTML, CSS, JavaScript  
+- Git / GitHub
+- Docker
+- TypeScript
+- Dart
+
+## 🚀 Proyectos destacados
+- Sistema de gestión para empresa  
+- Aplicación de estudio  
+
+## 📫 Contacto
+- Email: rodo_cristhian@hotmail.com
